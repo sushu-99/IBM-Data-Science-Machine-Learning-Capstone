@@ -1,5 +1,5 @@
-# IBM-Data-Science-Machine-Learning-Capstone
-# IBM Data Science and Machine Learning Capstone Project Presentation
+# IBM-Data-Science-Machine-Learning-Capstone-Project
+
 
 ## Executive Summary
 - **Objective**: Leverage data science and machine learning to address a specific business problem.
