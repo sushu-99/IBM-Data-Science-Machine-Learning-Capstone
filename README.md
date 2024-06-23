@@ -47,6 +47,9 @@
 - **Summary**: Recap of key findings and model performance.
 - **Recommendations**: Actionable recommendations based on the analysis.
 - **Future Work**: Suggestions for future enhancements and additional research.
+  
+  ![image](https://github.com/sushu-99/IBM-Data-Science-Machine-Learning-Capstone/assets/132267021/9d0fd897-d203-490b-823d-24dd65b0c6f1)
+
 
 ## Creative Improvements and Innovative Insights
 - **Enhancements**: Any additional features or visualizations added to improve the presentation.
